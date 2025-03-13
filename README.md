@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/febisarju/febisarju.github.io/blob/main/images/coder.jpg" /></div>
+  <img src="https://github.com/febisarju/febisarju/blob/main/images/coder.jpg" /></div>
 
 
 <div align="center">
@@ -73,6 +73,7 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
 </div>
 
 ###
@@ -82,22 +83,29 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febisarju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febisarju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=febisarju&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="236" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=febisarju&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### ✍️ Write something nice in my guest book:
-<div align="center">
-<a href="https://github.com/febisarju/febisarju.github.io/issues/new?assignees=&labels=guestbook&template=guestbook-entry.md&title=New+Guest+Book+Entry">
-    <img src="https://github.com/febisarju/febisarju.github.io/blob/main/images/guestbook.gif" width="200">
-</a></div>
+## ✍️ Write something nice in my guest book:
+
+[![book](https://github.com/febisarju/febisarju/blob/main/images/book.gif)](https://github.com/febisarju/febisarju/issues/new?assignees=&labels=guestbook&template=guestbook-entry.md&title=New+Guest+Book+Entry)
 
 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect/collaborate! 🚀   
 ##### Have a good day:)
+
+
+
+
+
+
+
+
+
