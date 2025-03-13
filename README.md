@@ -97,7 +97,7 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
 ## ✍️ Write something nice in my guest book:
 <div align="center">
 <a href="https://github.com/febisarju/febisarju/issues/new?labels=guestbook&title=New+Guest+Book+Entry">
-    <img src="https://raw.githubusercontent.com/febisarju/febisarju/main/guestbook.gif" width="200">
+    <img src="https://github.com/febisarju/febisarju/blob/main/images/guestbook.gif" width="200">
 </a></div>
 
 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect/collaborate! 🚀   
