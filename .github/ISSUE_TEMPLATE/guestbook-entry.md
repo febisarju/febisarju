@@ -1,13 +1,10 @@
 name: "Guest Book Entry"
-description: "Write a nice message in my guest book!"
+description: "Write something nice in the guestbook!"
 title: "New Guest Book Entry"
-labels: [guestbook]
+labels: ["guestbook"]
 body:
-  - type: markdown
-    attributes:
-      value: "Thank you for visiting! Leave your message below."
   - type: textarea
-    id: message
     attributes:
-      label: "Your message"
-      placeholder: "Write something nice..."
+      label: "Your Message"
+      description: "Write a message for the guestbook!"
+      placeholder: "Type your message here..."
