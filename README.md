@@ -78,21 +78,17 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
 ###
 
 <h3 align="left">🔥   My Stats </h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=febisarju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=febisarju&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="236" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febisarju&layout=compact&theme=dracula" height="180" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=febisarju&show_icons=true&theme=dracula" height="180" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febisarju&theme=dracula" height="180" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=febisarju&theme=darkhub&margin-w=15&margin-h=15" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&theme=github-dark" />  
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=febisarju&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ### ✍️ Write something nice in my guest book:   
 <div align="center">
 <a href="https://github.com/febisarju/febisarju/issues/new?assignees=&labels=guestbook&template=guestbook-entry.md&title=New+Guest+Book+Entry">
@@ -102,17 +98,6 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
 
 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect/collaborate! 🚀   
 ##### Have a good day:)        
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febisarju&show_icons=true&theme=dracula" height="180" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febisarju&theme=dracula" height="180" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febisarju&layout=compact&theme=dracula" height="180" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&theme=github-dark" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=febisarju&theme=darkhub&margin-w=15&margin-h=15" />
-</div>
 
 
 
