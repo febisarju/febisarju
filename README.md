@@ -111,7 +111,7 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&theme=github-dark" />
   <br>
-<img src="https://github-profile-trophy.vercel.app/?username=febisarju&theme=dracula&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=febisarju&theme=darkhub&margin-w=15&margin-h=15" />
 </div>
 
 
