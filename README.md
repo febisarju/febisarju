@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
@@ -40,7 +40,7 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
@@ -77,10 +77,10 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
 
 ###
 
-<h3 align="left">🔥   My Stats </h3>
+<h3 align="left">🔥   My Stats: </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febisarju&layout=compact&theme=dracula" height="180" />
-  <br><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=febisarju&show_icons=true&theme=dracula" height="180" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=febisarju&theme=dracula" height="180" alt="GitHub Streak" />
@@ -89,6 +89,7 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&theme=github-dark" />  
 </div>
+
 ### ✍️ Write something nice in my guest book:   
 <div align="center">
 <a href="https://github.com/febisarju/febisarju/issues/new?assignees=&labels=guestbook&template=guestbook-entry.md&title=New+Guest+Book+Entry">
