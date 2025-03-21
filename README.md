@@ -83,8 +83,6 @@ I’m a data enthusiast hailing from India, blending analytical precision with a
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=febisarju&show_icons=true&theme=dracula" height="180" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febisarju&theme=dracula" height="180" alt="GitHub Streak" />
-  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=febisarju&theme=darkhub&margin-w=15&margin-h=15" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=febisarju&theme=github-dark" />  
